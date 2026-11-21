@@ -17071,20 +17071,6 @@
    "id": "tsuyujimo-000701",
    "pid": "aozora",
    "pages": [],
-   "no": 701,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000702",
-   "pid": "aozora",
-   "pages": [],
    "no": null,
    "maki": "「つゆじも」後記",
    "bu": "",
@@ -17097,21 +17083,7 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000703",
-   "pid": "aozora",
-   "pages": [],
-   "no": 702,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000704",
+   "id": "tsuyujimo-000702",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17126,21 +17098,7 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000705",
-   "pid": "aozora",
-   "pages": [],
-   "no": 703,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000706",
+   "id": "tsuyujimo-000703",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17155,21 +17113,7 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000707",
-   "pid": "aozora",
-   "pages": [],
-   "no": 704,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000708",
+   "id": "tsuyujimo-000704",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17184,21 +17128,7 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000709",
-   "pid": "aozora",
-   "pages": [],
-   "no": 705,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000710",
+   "id": "tsuyujimo-000705",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17243,21 +17173,7 @@
    ]
   },
   {
-   "id": "tsuyujimo-000711",
-   "pid": "aozora",
-   "pages": [],
-   "no": 706,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000712",
+   "id": "tsuyujimo-000706",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17272,24 +17188,10 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000713",
+   "id": "tsuyujimo-000707",
    "pid": "aozora",
    "pages": [],
-   "no": 707,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000714",
-   "pid": "aozora",
-   "pages": [],
-   "no": 708,
+   "no": 701,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17300,10 +17202,10 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000715",
+   "id": "tsuyujimo-000708",
    "pid": "aozora",
    "pages": [],
-   "no": 709,
+   "no": 702,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17320,21 +17222,7 @@
    ]
   },
   {
-   "id": "tsuyujimo-000716",
-   "pid": "aozora",
-   "pages": [],
-   "no": 710,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000717",
+   "id": "tsuyujimo-000709",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17349,10 +17237,10 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000718",
+   "id": "tsuyujimo-000710",
    "pid": "aozora",
    "pages": [],
-   "no": 711,
+   "no": 703,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17363,10 +17251,10 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000719",
+   "id": "tsuyujimo-000711",
    "pid": "aozora",
    "pages": [],
-   "no": 712,
+   "no": 704,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17377,10 +17265,10 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000720",
+   "id": "tsuyujimo-000712",
    "pid": "aozora",
    "pages": [],
-   "no": 713,
+   "no": 705,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17391,10 +17279,10 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000721",
+   "id": "tsuyujimo-000713",
    "pid": "aozora",
    "pages": [],
-   "no": 714,
+   "no": 706,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17405,10 +17293,10 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000722",
+   "id": "tsuyujimo-000714",
    "pid": "aozora",
    "pages": [],
-   "no": 715,
+   "no": 707,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17419,21 +17307,7 @@
    "poems": []
   },
   {
-   "id": "tsuyujimo-000723",
-   "pid": "aozora",
-   "pages": [],
-   "no": 716,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000724",
+   "id": "tsuyujimo-000715",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17448,10 +17322,10 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000725",
+   "id": "tsuyujimo-000716",
    "pid": "aozora",
    "pages": [],
-   "no": 717,
+   "no": 708,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17468,10 +17342,10 @@
    ]
   },
   {
-   "id": "tsuyujimo-000726",
+   "id": "tsuyujimo-000717",
    "pid": "aozora",
    "pages": [],
-   "no": 718,
+   "no": 709,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17496,10 +17370,10 @@
    ]
   },
   {
-   "id": "tsuyujimo-000727",
+   "id": "tsuyujimo-000718",
    "pid": "aozora",
    "pages": [],
-   "no": 719,
+   "no": 710,
    "maki": "「つゆじも」後記",
    "bu": "",
    "dai": "",
@@ -17524,21 +17398,7 @@
    ]
   },
   {
-   "id": "tsuyujimo-000728",
-   "pid": "aozora",
-   "pages": [],
-   "no": 720,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000729",
+   "id": "tsuyujimo-000719",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17553,21 +17413,7 @@
    "jo": true
   },
   {
-   "id": "tsuyujimo-000730",
-   "pid": "aozora",
-   "pages": [],
-   "no": 721,
-   "maki": "「つゆじも」後記",
-   "bu": "",
-   "dai": "",
-   "kotobagaki": "",
-   "author": "",
-   "text": "○",
-   "sachu": "",
-   "poems": []
-  },
-  {
-   "id": "tsuyujimo-000731",
+   "id": "tsuyujimo-000720",
    "pid": "aozora",
    "pages": [],
    "no": null,
@@ -17591,12 +17437,12 @@
   "era": "大正時代",
   "author": "斎藤茂吉",
   "kind": "kashu",
-  "blocks": 731,
-  "chars": 21399,
-  "poems": 721,
+  "blocks": 720,
+  "chars": 21388,
+  "poems": 710,
   "yaku": 0,
   "editions": 1,
   "updated": "2026-11-22",
-  "updated_at": "2026-11-22T02:24:36+09:00"
+  "updated_at": "2026-11-22T03:24:44+09:00"
  }
 }
